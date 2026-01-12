@@ -1,0 +1,64 @@
+MCEN-4228-5228-Biohybrid-Robotics/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── course-info/
+│   ├── syllabus.pdf
+│   ├── schedule.pdf
+│   └── grading-breakdown.md
+│
+├── lectures/
+│   ├── week01_intro-biohybrid.md
+│   ├── week02_microorganisms.md
+│   ├── week03_muscle-robots.md
+│   └── ...
+│
+├── guest-seminars/
+│   ├── seminar01_skeletal-muscle-robots/
+│   │   ├── paper-notes.md
+│   │   └── discussion-questions.md
+│   ├── seminar02_necrobotics/
+│   └── seminar03_neuromuscular-robots/
+│
+├── labs/
+│   ├── cyborg-mushroom/
+│   │   ├── structured/
+│   │   │   ├── notes.md
+│   │   │   ├── worksheet.md
+│   │   │   └── images/
+│   │   ├── project/
+│   │   │   ├── design.md
+│   │   │   ├── experiments.md
+│   │   │   ├── results.md
+│   │   │   ├── code/
+│   │   │   └── media/
+│   │   └── report.md
+│   │
+│   ├── cyborg-jellyfish/
+│   └── smellicopter/
+│
+├── final-project/
+│   ├── proposal.md
+│   ├── literature-review.md
+│   ├── design-and-methods.md
+│   ├── results.md
+│   ├── discussion.md
+│   ├── presentation/
+│   └── report/
+│
+├── code/
+│   ├── arduino/
+│   ├── python/
+│   └── matlab/
+│
+├── reflections/
+│   ├── week01.md
+│   ├── week02.md
+│   └── final-reflection.md
+│
+└── assets/
+    ├── figures/
+    ├── diagrams/
+    └── videos/
